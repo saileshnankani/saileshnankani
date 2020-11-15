@@ -4,7 +4,7 @@ I'm Sailesh, a software engineer interested in Distributed Systems, Cloud Infras
 
 Currently, I'm studying 3B Software Engineering at the University of Waterloo. 
 
-I'm looking for internship opportunities for Winter (Jan-Apr) 2021. 
+I'm looking for internship opportunities for Fall (Sept-Dec) 2021. 
 <!--
 **saileshnankani/saileshnankani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
