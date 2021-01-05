@@ -2,7 +2,7 @@
 
 I'm Sailesh, a software engineer interested in Distributed Systems, Cloud Infrastructure, and Data Engineering!
 
-Currently, I'm studying 3B Software Engineering at the University of Waterloo. 
+Currently, I'm studying 4A Software Engineering at the University of Waterloo. 
 
 I'm looking for internship opportunities for Fall (Sept-Dec) 2021. 
 <!--
