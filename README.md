@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Sailesh, a software engineer interested in Distributed Systems, Cloud Infrastructure, and Data Engineering!
+I'm Sailesh, a software engineer interested in Distributed Systems, Machine Learning, and Data Engineering!
 
 Currently, I'm studying 4A Software Engineering at the University of Waterloo. 
 
-I'm looking for internship opportunities for Fall (Sept-Dec) 2021. 
+I'm seeking new grad opportunities starting May 2022
 <!--
 **saileshnankani/saileshnankani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
